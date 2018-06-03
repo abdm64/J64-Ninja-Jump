@@ -1,0 +1,6 @@
+framework module Pods_jack64 {
+  umbrella header "Pods-jack64-umbrella.h"
+
+  export *
+  module * { export * }
+}
